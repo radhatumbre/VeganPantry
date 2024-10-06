@@ -1,0 +1,112 @@
+/* App.css */
+:root {
+  /* Colors */
+  --primary-color: #9966cc;
+  --secondary-color: #66ccff;
+  --accent-color: #ff9933;
+  --background-color: #f0f5f9;
+  --text-color: #333333;
+
+  --light-primary-color: #b598d6; /* Lighter shade of primary color */
+  --dark-primary-color: #7f4fb0; /* Darker shade of primary color */
+  --light-secondary-color: #aee5ff; /* Lighter shade of secondary color */
+  --dark-secondary-color: #4db8e0; /* Darker shade of secondary color */
+  --light-accent-color: #ffc299; /* Lighter shade of accent color */
+  --dark-accent-color: #cc6600; /* Darker shade of accent color */
+  /* 
+    For the light variations:
+  
+  Light primary color: #b599d1 (RGB: 181, 153, 209)
+  Light secondary color: #99d9ff (RGB: 153, 217, 255)
+  Light accent color: #ffbf80 (RGB: 255, 191, 128)
+  
+  For the dark variations:
+  
+  Dark primary color: #664c99 (RGB: 102, 76, 153)
+  Dark secondary color: #3385b5 (RGB: 51, 133, 181)
+  Dark accent color: #cc6600 (RGB: 204, 102, 0) 
+  */
+}
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: var(--background-color);
+  /* Dark blue background color */
+  color: #ffffff;
+  /* White text color for contrast */
+}
+
+/* Navbar.css */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: var(--dark-primary-color);
+  /* Light blue aesthetic color */
+  color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-left {
+  display: flex;
+  align-items: center;
+}
+.navbar-brand{
+  border-radius: 0.8rem;
+
+}
+
+
+.navbar-title {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #1f3b73;
+  /* Darker shade for contrast */
+}
+
+.navbar-middle {
+  display: flex;
+  gap: 15px;
+}
+
+.navbar-tab {
+  text-decoration: none;
+  color: var(--light-primary-color);
+  font-size: 1.5rem;
+  font-weight: 700;
+  padding: 5px 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.navbar-tab:hover {
+  background-color: var(--light-primary-color);
+  color: var(--dark-primary-color);
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.navbar-right input[type="text"] {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.navbar-right button {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #1f3b73;
+  color: #fff;
+  cursor: pointer;
+}
+
+.navbar-right button:hover {
+  background-color: #133263;
+  /* Darker blue on hover */
+}
