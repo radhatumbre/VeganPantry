@@ -66,7 +66,7 @@ This tool uses machine learning to convert recipes into vegan-friendly versions 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/vegan-recipe-converter.git
+   git clone https://github.com/your-username/vegan-recipe-converter.git](https://github.com/radhatumbre/VeganPantry.git
    ```
 2. **Navigate to the project directory:**
 
