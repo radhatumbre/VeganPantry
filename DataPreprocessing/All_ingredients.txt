@@ -1,0 +1,437 @@
+Adobo sauce
+Agar-agar
+Agave nectar
+All purpose flour
+Almond
+Almond milk
+Anchovy
+Apple
+Apple cider vinegar
+Apricot
+Artichoke
+Arugula
+Asparagus
+Avocado
+Bagel
+Bagel spice
+Baking powder
+Baking soda
+Banana
+Basil
+Bay leaf
+Bbq sauce
+Bean sprout
+Beer
+Beet green
+Beet slice
+Beets
+Bell pepper
+Berries
+Black bean
+Blackberry
+Blueberry
+Bok choy
+Bourbon
+Brandy
+Bread
+Broccoli
+Brown sugar
+Brussels sprout
+Buckwheat
+Buffalo sauce
+Buns
+Butter
+Buttermilk
+Cabbage
+Cabernet
+Cacao nibs
+Cajun seasoning
+Campari
+Candy
+Cannellini
+Cannelloni bean
+Cantaloupe
+Capers
+Caramel
+Caraway seed
+Cardamom
+Carrageenan
+Carrot
+Carrot,beetroot
+Cashew cheese
+Cashew cream
+Cashews
+Cauliflower
+Celery
+Chai
+Champagne
+Cheerios
+Cheese
+Cherry
+Chestnut
+Chia seed
+Chickpea
+Chile
+Chili bean
+Chili flake
+Chili flakes
+Chili paste
+Chili powder
+Chili sauce
+Chinese 5 spice
+Chipotle
+Chive
+Chocolate
+Chocolate chip
+Chocolate ice cream
+Chocolate malt powder
+Cider
+Cilantro
+Cinnamon
+Cloves
+Cocoa powder
+Coconut
+Coconut bacon
+Coconut milk
+Coconut milk caramel
+Coconut oil
+Coconut water
+Coffee powder
+Cointreau
+Coriander
+Corn
+Corn kernel
+Cornflakes
+Cornmeal
+Cracker
+Cranberry
+Cranberry dauce
+Cranberry juice
+Cream
+Cream cheese
+Cream of tarter
+Croissant
+Crouton
+Cucumber
+Cumin
+Curry paste
+Curry powder
+Dark chocolate
+Date syrup
+Dates
+Dijon mustard
+Dill
+Dinner rolls
+Doughnuts
+Dried hibiscus
+Dried rose petal
+Dried rosmarry
+Dumpling
+Edamame
+Egg
+Eggplant
+Elderflower liquor
+Enchilada sauce
+Fennel
+Fennel seed
+Fig
+Fish sauce
+Flax seed
+Flour
+Fudge sauce
+Garam masala
+Garlic
+Garlic powder
+Gelatin
+Gin
+Ginger
+Ginger syrup
+Gochugaru
+Gochujang
+Grape juice
+Grapefruit
+Grapes
+Green chili
+Green tea
+Greens
+Ground mustard
+Guacamole
+Harissa
+Hazelnut
+Hearts of palm
+Heavy cream
+Heavy whipping cream
+Hemp seeds
+Herbs
+Hershey's kisses
+Hoisin sauce
+Honey
+Hot sauce
+Hummus
+Ice
+Ice cream
+Irish liquor
+Italian seasoning
+Jackfruit
+Jalapeño
+Jalapeño with vinegar
+Jam
+Jelly
+Kahlua
+Kale
+Ketchup
+Kidney bean
+Kimchi
+Kiwi
+Leek
+Lemon
+Lemon juice
+Lentil
+Lettuce
+Lime
+Lime juice
+M&m
+Malt powder
+Mango
+Maple syrup
+Marinara sauce
+Marsala wine
+Marshmallow
+Matcha powder
+Mayo
+Meat - beef - beef
+Meat - beef - brisket
+Meat - beef - chuck roast
+Meat - beef - ribs
+Meat - beef - steak
+Meat - fish
+Meat - fish - mahi mahi
+Meat - fish - salmon
+Meat - fish - shellfish - clams
+Meat - fish - shellfish - lobster
+Meat - fish - shellfish - mussel
+Meat - fish - shellfish - scallops
+Meat - fish - shellfish - shrimp
+Meat - fish - tuna
+Meat - other meat - bison
+Meat - other meat - lamb
+Meat - pork - bacon
+Meat - pork - ham
+Meat - pork - pancetta
+Meat - pork - pork
+Meat - pork - pork chop
+Meat - poultry - chicken
+Meat - poultry - turkey
+Meat - processed meat - deli meat
+Meat - processed meat - prosciutto
+Meat - processed meat - salami
+Meat - sausage - andouille
+Meat - sausage - chorizo
+Meat - sausage - pork sausage
+Meringue
+Microgreen
+Milk
+Mint leaves
+Miso paste
+Mixed nuts
+Molasses
+Mushroom
+Mushrooms
+Mustard
+Mustard powder
+Naan
+Nectarine
+Non-alcoholic marsala wine
+Non-dairy chocolate ice cream
+Non-dairy milk with lemon juice
+Noodle
+Nori
+Nutella
+Nutmeg
+Oat milk
+Oatmeal
+Oats
+Oil
+Olive
+Olive oil
+Onion
+Onion powder
+Orange
+Oregano
+Oreo
+Oyster sauce
+Panko
+Paprika
+Parsley
+Passion fruit
+Pasta
+Pastry dough
+Pastry sheet
+Peach
+Peanut
+Peanut butter
+Pear
+Peas
+Pecan
+Pectin
+Peperoncino
+Pepper
+Persimmon
+Pesto
+Phyllo dough
+Pickle
+Pickle brine
+Pickle juice
+Pickled ginger
+Pickled ginger juice
+Pickled jalapeño
+Pie crust
+Pine nut
+Pineapple
+Pinto bean
+Pistachio
+Pizza dough
+Plum
+Polenta
+Pomegranate
+Pomegranate juice
+Pomegranate seed
+Poppy seeds
+Potato
+Potato chip
+Poultry seasoning
+Pretzel
+Puff pastry
+Pumpkin
+Pumpkin seed
+Quinoa
+Radish
+Ranch dressing
+Raspberry
+Red chilli
+Red pepper flake
+Red wine
+Reese's
+Rhubarb
+Rice
+Rice noodle
+Rice vinegar
+Rice wine
+Rose petal
+Rosemary
+Rosé wine
+Rum
+Russian dressing
+Saffron
+Sage
+Salsa
+Salt
+Sambal
+Scallion
+Scotch
+Seasoning
+Seitan
+Semolina flour
+Serrano pepper
+Sesame
+Sesame oil
+Sesame seed
+Shallot
+Sherry
+Silken tofu
+Snickers
+Sour cream
+Soy milk
+Soy sauce
+Spaghetti squash
+Sparkling water
+Sparkling wine
+Spinach
+Sprinkles
+Sprout
+Squash
+Sriracha
+Stalk celery
+Star anise
+Strawberry
+Sugar
+Sunflower seed
+Sweet potato
+Tabasco
+Taco shells
+Tahini
+Tajin
+Tamari
+Tangerine
+Tartar
+Tater tot
+Tea
+Tempeh
+Tequila
+Thai curry paste
+Thai red curry
+Thai red curry paste
+Thyme
+Toasted nuts
+Toasted seed
+Tofu
+Tomatillo
+Tomato
+Tomato pesto
+Tortilla
+Turmeric
+Tzatziki
+Vanilla
+Vanilla extract
+Vegan andouille
+Vegan bacon
+Vegan beef
+Vegan bison
+Vegan brisket
+Vegan cheese
+Vegan chicken
+Vegan chocolate spread
+Vegan chorizo
+Vegan chuck roast
+Vegan clams
+Vegan deli meat
+Vegan fish
+Vegan ham
+Vegan lamb
+Vegan lobster
+Vegan mahi mahi
+Vegan marshmallows
+Vegan mayo
+Vegan mussel
+Vegan pancetta
+Vegan pork
+Vegan pork chop
+Vegan prosciutto
+Vegan ribs
+Vegan salami
+Vegan salmon
+Vegan sausage
+Vegan scallops
+Vegan shrimp
+Vegan steak
+Vegan tuna
+Vegan turkey
+Vegetable
+Vegetable broth
+Vinegar
+Vodka
+Waffles
+Walnut
+Wasabi powder
+Water
+Watermelon
+Whipped cream
+Whiskey
+White bean
+White miso
+White wine
+Wonton wrapper
+Worcestershire sauce
+Yeast
+Yogurt
+Zucchini
