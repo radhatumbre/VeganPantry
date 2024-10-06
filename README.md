@@ -38,8 +38,7 @@ This tool uses machine learning to convert recipes into vegan-friendly versions 
 - React
 - scikit-learn
 - pandas
-- requests (for web scraping)
-- Other dependencies listed in requirements.txt
+- ast
 
 
 ## Installation
