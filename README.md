@@ -40,6 +40,26 @@ This tool uses machine learning to convert recipes into vegan-friendly versions 
 - pandas
 - ast
 
+## Screenshots
+
+*Home Page*
+![Screenshot 2](Screenshots/HomePage.png)
+
+*All Recipes Generated*
+![Screenshot 2](Screenshots/AllRecipes.png)
+
+*Appetizers Generated*
+![Screenshot 2](Screenshots/Appetizers.png)
+
+*Drinks Generated*
+![Screenshot 2](Screenshots/Drinks.png)
+
+*Original Recipe - Details*
+![Screenshot 2](Screenshots/Original_Recipe.png)
+
+*Vegan Recipes - Details*
+![Screenshot 2](Screenshots/Vegan_Recipe.png)
+
 
 ## Installation
 
