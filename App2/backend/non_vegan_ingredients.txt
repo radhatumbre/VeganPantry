@@ -1,0 +1,61 @@
+anchovy
+bbq sauce
+beer
+buffalo sauce
+butter
+buttermilk
+caramel
+cheese
+chocolate
+chocolate ice cream
+chocolate malt powder
+egg
+fish sauce
+gelatin
+heavy cream
+honey
+marsala wine
+marshmallow
+mayo
+meat - beef - beef
+meat - beef - brisket
+meat - beef - chuck roast
+meat - beef - ribs
+meat - beef - steak
+meat - fish
+meat - fish - mahi mahi
+meat - fish - salmon
+meat - fish - shellfish - clams
+meat - fish - shellfish - lobster
+meat - fish - shellfish - mussel
+meat - fish - shellfish - scallops
+meat - fish - shellfish - shrimp
+meat - fish - tuna
+meat - other meat - bison
+meat - other meat - lamb
+meat - pork - bacon
+meat - pork - ham
+meat - pork - pancetta
+meat - pork - pork
+meat - pork - pork chop
+meat - poultry - chicken
+meat - poultry - turkey
+meat - processed meat - deli meat
+meat - processed meat - prosciutto
+meat - processed meat - salami
+meat - sausage - andouille
+meat - sausage - chorizo
+meat - sausage - pork sausage
+milk
+nutella
+oyster sauce
+panko
+pickle brine
+pickle juice
+pickled ginger
+pickled ginger juice
+pickled jalapeño
+poultry seasoning
+rice wine
+sherry
+tequila
